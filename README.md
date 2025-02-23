@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateosmudarg&label=Profile%20views&color=0e75b6&style=flat" alt="mateosmudarg" /> </p>
 
+- 🧑‍💻 Software de gestion en una empresa del parque Industrial de Burzaco
+
 - 🔭 Mi proyecto principal es **Precio Match, pero aún no lo puedo mostrar**
 
 - 🌱 Actualmente estoy aprendiendo en profundidad **Frameworks web de Python**
-
-- 😁 Mi proyecto secundario es [Experimentos Mate](https://mateosmud.online/)
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://mateosmud.online](https://mateosmud.online)
 
