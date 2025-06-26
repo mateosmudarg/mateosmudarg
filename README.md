@@ -5,7 +5,7 @@
 
 - 🧑‍💻 Software de gestion en una empresa del parque Industrial de Burzaco
 
-- 🔭 Mi proyecto principal es **Precio Match, pero aún no lo puedo mostrar**
+- 🔭 Mi proyecto principal es **Precio Match, pero aún esta en desarrollo muy temprano**
 
 - 🌱 Actualmente estoy aprendiendo en profundidad **Frameworks web de Python**
 
@@ -15,7 +15,7 @@
 
 - 📫 Puedes contactarme por **contacto@mateosmud.online**
 
-<h3 align="left">Puedes contactarme por:</h3>
+<h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
 <a href="https://instagram.com/mate.smud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mate.smud" height="30" width="40" /></a>
 </p>
