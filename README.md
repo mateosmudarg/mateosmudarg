@@ -52,8 +52,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mateosmudarg/mateosmudarg/output/snake.svg" alt="Snake animation" />
-
-###
